@@ -1,5 +1,7 @@
 .venv/
 
+gitignore
+
 Final_project_telcom_churn_dataset.csv
 
 Final_Project.ipynb
